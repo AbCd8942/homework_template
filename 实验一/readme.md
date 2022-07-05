@@ -29,9 +29,7 @@
 
 ## 实验内容
 
-1. [max.py](./max.py) 算法实现的python版本
-1. [max.c](max.c) 算法实现的C语言版本
-1. [max.java](max.java) 算法实现的java版本
+1. [DivideAndConquer.java](DivideAndConquer.java) 算法实现的java版本
 
 ## 实验预期结果与实际结果
 + 实验预期结果：14
