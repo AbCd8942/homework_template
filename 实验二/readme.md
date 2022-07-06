@@ -27,32 +27,12 @@
 2. [Fibonacci.java](Fibonacci.java) 算法实现斐波纳契数列的java版本
 
 ## 实验预期结果与实际结果
-+ 实验预期结果：14
 
-实验过程及实验结果（Java版）
 
-```bash
-gitpod /workspace/homewrok_template (main) $ javac Max.java
-Picked up JAVA_TOOL_OPTIONS:  -Xmx3435m
-gitpod /workspace/homewrok_template (main) $ java Max
-Picked up JAVA_TOOL_OPTIONS:  -Xmx3435m
-14
-
-```
-
-实验过程及实验结果（C版）
-
-```bash
-gitpod /workspace/homewrok_template (main) $ gcc -o max.exe max.c
-gitpod /workspace/homewrok_template (main) $ ./max.exe 
-14
-
-```
-
-实验过程及实验结果（Python版）
-
-```bash
-gitpod /workspace/homewrok_template (main) $ python max.py 
-14
-
-```
+斐波纳契数列的其中三个结果 
+n=5  
+![img](/实验一/n=5.bmp)  
+n=10  
+![img](/实验一/n=10.bmp)  
+n=15  
+![img](/实验一/n=15.bmp)
