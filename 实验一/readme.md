@@ -30,32 +30,8 @@
 1. [DivideAndConquer.java](DivideAndConquer.java) 算法实现的java版本
 
 ## 实验预期结果与实际结果
-+ 实验预期结果：14
+
 
 实验过程及实验结果（Java版）
-
-```bash
-gitpod /workspace/homewrok_template (main) $ javac Max.java
-Picked up JAVA_TOOL_OPTIONS:  -Xmx3435m
-gitpod /workspace/homewrok_template (main) $ java Max
-Picked up JAVA_TOOL_OPTIONS:  -Xmx3435m
-14
-
-```
-
-实验过程及实验结果（C版）
-
-```bash
-gitpod /workspace/homewrok_template (main) $ gcc -o max.exe max.c
-gitpod /workspace/homewrok_template (main) $ ./max.exe 
-14
-
-```
-
-实验过程及实验结果（Python版）
-
-```bash
-gitpod /workspace/homewrok_template (main) $ python max.py 
-14
-
-```
+![img](/实验一/结果1.png)  
+![img](/实验一/结果2.png)
