@@ -23,7 +23,8 @@
 
 ## 实验内容
 
-1. [Backpack.java](Backpack.java) 算法实现的java版本
+1. [Backpack.java](Backpack.java) 算法实现01背包的java版本
+2. [Fibonacci.java](Fibonacci.java) 算法实现斐波纳契数列的java版本
 
 ## 实验预期结果与实际结果
 + 实验预期结果：14
